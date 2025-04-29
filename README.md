@@ -39,5 +39,5 @@ The notebook compares model performance to identify the most reliable technique 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/parkinsons-detection-project.git
-   cd parkinsons-detection-project
+   git clone https://github.com/your-username/ParkinsonDiseaseDetection.git
+   cd ParkinsonDiseaseDetection
